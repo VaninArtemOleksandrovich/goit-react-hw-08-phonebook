@@ -6,13 +6,11 @@ export default function Home() {
   return (
     <Box>
       <p className={css.text}>
-        You can save lives, no matter where in the world you are. A simple
-        donation. A few clicks on your keyboard. A message to the right person.
+      Pray for Ukraine.
       </p>
 
       <p className={css.text}>
-        Everything you need to help Ukrainians in their fight for peace and
-        freedom – in one place.
+      Support the Ukrainian Army.
       </p>
 
       <a

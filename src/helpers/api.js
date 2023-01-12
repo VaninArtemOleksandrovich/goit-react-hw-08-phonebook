@@ -17,4 +17,3 @@ export const deleteContactsData = async contactId => {
   const { data } = await axios.delete(`/contacts/${contactId}`);
   return data;
 };
-
